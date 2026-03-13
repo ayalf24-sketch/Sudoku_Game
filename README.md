@@ -1,5 +1,5 @@
 # Sudoku_Game
-Fitsum's CS112 Final Project
+My CS112 Final Project
 
 
 **Sudoku Solver (Java)**
